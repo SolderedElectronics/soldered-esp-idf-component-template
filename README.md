@@ -1,4 +1,4 @@
-# NAZIV PROIZVODA Component
+# Soldered NAZIV PROIZVODA Component
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :------------------------------------------------------------------------------------: |
