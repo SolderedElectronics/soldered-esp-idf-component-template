@@ -13,5 +13,5 @@ source "$VENV_DIR/bin/activate"
 
 pip install --quiet astyle_py==1.0.5
 
-astyle_py --astyle-version=3.4.7 --rules=.astyle-rules.yml \
+astyle_py --astyle-version=3.4.7 --rules=.astyle_rules.yml \
 	src/*.c include/*.h examples/*/main/*.c

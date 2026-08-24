@@ -1,5 +1,5 @@
 /**
- * @file soldered-esp-idf-component-template.h
+ * @file soldered_esp_idf_component_template.h
  * @brief Public API for the soldered-esp-idf-component-template component
  * @author Soldered Electronics
  */

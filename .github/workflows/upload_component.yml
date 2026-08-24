@@ -7,7 +7,7 @@ on:
 
 jobs:
   format:
-    uses: ./.github/workflows/format-check.yml
+    uses: ./.github/workflows/format_check.yml
   build:
     uses: ./.github/workflows/build.yml
   upload:

@@ -19,7 +19,7 @@ Before publishing a new component make sure to replace:
 
 Also make sure to add examples.
 
-Run `./format.sh` before committing to auto-format `src/`, `include/`, and the example against the project's astyle rules (`.astyle-rules.yml`). CI runs the same check on every push/PR via `.github/workflows/format-check.yml` and fails on unformatted code.
+Run `./format.sh` before committing to auto-format `src/`, `include/`, and the example against the project's astyle rules (`.astyle_rules.yml`). CI runs the same check on every push/PR via `.github/workflows/format_check.yml` and fails on unformatted code.
 
 **Remove this section of README after everything is done!**
 

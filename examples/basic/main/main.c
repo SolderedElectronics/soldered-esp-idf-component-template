@@ -4,7 +4,7 @@
  * @author Soldered Electronics
  */
 
-#include "soldered-esp-idf-component-template.h"
+#include "soldered_esp_idf_component_template.h"
 
 void app_main(void)
 {
