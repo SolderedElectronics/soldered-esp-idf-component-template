@@ -21,9 +21,9 @@ Also make sure to add examples.
 
 Run `./format.sh` before committing to auto-format `src/`, `include/`, and the example against the project's astyle rules (`.astyle_rules.yml`). CI runs the same check on every push/PR via `.github/workflows/format_check.yml` and fails on unformatted code.
 
-**Remove this section of README after everything is done!**
-
 For uploading to Registry you need to register a trusted publisher under a component. To make the release to the registry you must bump `version` in `idf_component.yml` to `X.Y.Z`, push that commit, and confirm Format Check + Build Examples both pass on it (Actions tab) before tagging. Only once both are green: `git tag vX.Y.Z && git push origin vX.Y.Z`.
+
+**Remove this section of README after everything is done!**
 
 ### Repository Contents
 
